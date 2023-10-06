@@ -1,0 +1,20 @@
+:root {
+  --scrollbar-color: rgb(255, 0, 0); /* red */
+}
+body {
+
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+  height: 30px;
+  background-color: #0a4c95;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+ overflow-y: hidden;
+}
