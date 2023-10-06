@@ -1,2 +1,2 @@
 # anubissvk.online
-MOJ WEB
+Môj web
